@@ -49,6 +49,11 @@ const projects: CommunityProjectProps[] = [
     url: 'https://github.com/vale46n1/immich_duplicate_finder',
   },
   {
+    title: 'Immich Duplicates',
+    description: 'Another Webapp that uses Hamming Distance to identify duplicates.',
+    url: 'https://github.com/agross/immich-duplicates',
+  },
+  {
     title: 'Immich-Tiktok-Remover',
     description: 'Script to search for and remove TikTok videos from your Immich library.',
     url: 'https://github.com/mxc2/immich-tiktok-remover',
